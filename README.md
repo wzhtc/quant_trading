@@ -3,6 +3,11 @@
 [TOC]
 
 ## pairs_trading  
+
+### reading_material  
+[multivariate approach](https://drive.google.com/open?id=0B3x7xDLSsPvJQ1BIZUM2UEI2V1E)
+[OU approach](https://drive.google.com/open?id=0B3x7xDLSsPvJSDRkb0dWdTA3UGc)
+
 ### classical_approach  
 1. normalize return  
 $p=\frac{p-E [p] }{ \sigma }$
